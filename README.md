@@ -1,8 +1,8 @@
 # codeit
 *daily coding journey and achievements*
-## Daily Coding Challenge Repository
 
-This repository contains my daily coding challenge solutions from various platforms.
+## daily coding repo
+This repository contains my daily coding solutions
 
 ## Daily Challenges
 | Date       | Folder Name          | Problem Title      | Link                                      |
