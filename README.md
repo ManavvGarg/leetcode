@@ -13,3 +13,4 @@ This repository contains my daily coding solutions
 | 26-06-24   | [day3](https://github.com/manavvgarg/leetcode/tree/main/day3) | Append Characters to String to Make Subsequence | [LeetCode Problem 2486](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence) |
 | 26-06-24   |  | Longest Palindrome | [LeetCode Problem 409](https://leetcode.com/problems/longest-palindrome) |
 | 27-06-24   | [day4](https://github.com/manavvgarg/leetcode/tree/main/day4) | Find common characters | [LeetCode Problem 1002](https://leetcode.com/problems/find-common-characters/) |
+| 29-06-24   | [day5](https://github.com/manavvgarg/leetcode/tree/main/day5) | Merge 2 sorted Linked Lists | [LeetCode Problem 21](https://leetcode.com/problems/merge-two-sorted-lists/) |
